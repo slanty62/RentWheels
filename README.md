@@ -85,5 +85,3 @@ rentwheels/
 ├── Dockerfile
 ├── requirements.txt
 └── .env.example
-
-
